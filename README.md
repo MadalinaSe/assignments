@@ -5,3 +5,4 @@ My assignments
 [assignment 4](https://github.com/MadalinaSe/assignments/blob/master/assignment4.ipynb)
 [assignment_5](https://github.com/MadalinaSe/assignments/blob/master/graded_assignment_1%20(4).Rmd)
 [assignment 6](https://github.com/MadalinaSe/assignments/blob/master/Graded_assignment_2%20(final).htm)
+[final exam](https://github.com/MadalinaSe/assignments/blob/master/Final_exam_python.ipynb)
